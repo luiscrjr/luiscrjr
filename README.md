@@ -1,10 +1,12 @@
 ## Hi There! My name is Luis Ribeiro, I'm always a software developer and an eternal learner.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<br>
 <div align="center">
   <a href="https://github.com/luiscrjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscrjr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscrjr&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
   
   Primary Backend stack: <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="width:40px; height:40px"  />
@@ -30,6 +32,7 @@
   
   <br><br>
   Database and cache stack: <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="width:40px; height:40px"   />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="width:40px; height:40px"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:40px; height:40px"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="width:40px; height:40px"  />
