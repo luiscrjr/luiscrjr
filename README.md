@@ -36,7 +36,7 @@ My name is Luis Ribeiro, I'm always a software developer and an eternal learner.
    
   <h6>Second Backend stack:<h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  style="width:40px; height:40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" style="width:40px; height:40px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-plain-wordmark.svg"  style="width:40px; height:40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="width:40px; height:40px"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="width:40px; height:40px"  />
   
