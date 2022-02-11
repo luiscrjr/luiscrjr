@@ -1,4 +1,4 @@
-## Hi There! My name is Luis Ribeiro, I'm a software developer and a eternal learner.
+## Hi There! My name is Luis Ribeiro, I'm a software developer and an eternal learner.
 <div align="center">
   <a href="https://github.com/luiscrjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscrjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
