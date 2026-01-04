@@ -1,7 +1,6 @@
 ### Hi There! 
 
 My name is Luis Ribeiro, I'm always a software developer and an eternal learner.
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <br>
 <div align="center">
   <a href="https://github.com/luiscrjr">
